@@ -2,6 +2,8 @@
   "name": "hindu-matrimony",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://Santhosh14-git.github.io/matrimony",
+
   "scripts": {
     "dev": "vite",
     "build": "vite build",

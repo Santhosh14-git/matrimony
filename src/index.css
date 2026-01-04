@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary-color: #ff6f61;
+  --secondary-color: #ff9a8d;
+  --accent-color: #f9d5a7;
+  --background-color: #fff8f0;
+  --text-color: #333333;
+  --card-background: #ffffff;
+}
+
+input[required],
+select[required],
+textarea[required] {
+  background-color: rgba(255, 255, 255, 0.5);
+}
